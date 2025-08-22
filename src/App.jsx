@@ -140,6 +140,8 @@ function App() {
             <Route path="/checkout" element={<Checkout />} />
             <Route path="/orders" element={<Orders />} />
             <Route path="/login" element={<Login />} />
+            <Route path="/home" element={<Home />} />
+            <Route path="/categories" element={<ProductList />} />
             <Route path="/categories/new" element={<NewArrivals />} />
             <Route path="/categories/bestsellers" element={<BestSellers />} />
             <Route path="/categories/sale" element={<SaleItems />} />
