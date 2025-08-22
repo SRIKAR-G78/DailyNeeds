@@ -19,6 +19,14 @@ const SaleItems = () => (
           </div>
         </li>
       ))}
+      {saleItems.map((item, idx) => (
+        <li key={idx} style={{ display: 'flex', alignItems: 'center', marginBottom: '1rem' }}>
+          <img src={item.image} alt={item.name} style={{ width: 200, height: 150, objectFit: 'cover', marginRight: 16, borderRadius: 8 }} />
+          <div>
+            <strong>{item.name}</strong> - ${item.price}
+          </div>
+        </li>
+      ))}
     </ul>
   </div>
 );
