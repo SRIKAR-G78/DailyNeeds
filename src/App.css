@@ -1069,6 +1069,13 @@
   text-decoration: line-through;
   color: #999;
 }
+.new-arrivals {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  
+}
 
 /* Responsive Design for Deals */
 @media (max-width: 768px) {

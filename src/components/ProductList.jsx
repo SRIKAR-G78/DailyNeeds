@@ -168,7 +168,7 @@ const ProductList = () => {
       id: 20,
       name: 'Cheddar Cheese',
       price: 5.99,
-      image: 'https://images.unsplash.com/photo-1563636619-e9143da7973b?w=500',
+      image: 'https://imgs.search.brave.com/YFUKUiJCJFOJ15ryuA-tCghEy51T2PVb3YtZ4Ppfbq8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cy4x/MjNyZi5jb20vNDUw/d20va296emkva296/emkxMzAxL2tvenpp/MTMwMTAzNDcyLzE3/MTY4MjQ0LXNocmVk/ZGVkLWNoZWRkYXIt/Y2hlZXNlLW9uLWEt/YnJvd24tYmFja2dy/b3VuZC5qcGc_dmVy/PTY',
       category: 'Dairy & Eggs',
       description: 'Sharp cheddar cheese block.'
     },
@@ -176,7 +176,23 @@ const ProductList = () => {
       id: 21,
       name: 'Greek Yogurt',
       price: 3.49,
-      image: 'https://images.unsplash.com/photo-1563636619-e9143da7973b?w=500',
+      image: 'https://imgs.search.brave.com/7drha9BnQ9t0mhRQ12IKOHT0gS6AZ3gl-nZaLFuf_ZM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzQyLzI3LzU5/LzM2MF9GXzI0MjI3/NTkxMV9HZjZMNFVO/Y0NkQTNPTFZVU2gw/N21zVFd4djlUU0JO/Wi5qcGc',
+      category: 'Dairy & Eggs',
+      description: 'Plain Greek yogurt, 32oz.'
+    },
+    {
+      id: 20,
+      name: 'Cheddar Cheese',
+      price: 5.99,
+      image: 'https://imgs.search.brave.com/YFUKUiJCJFOJ15ryuA-tCghEy51T2PVb3YtZ4Ppfbq8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cy4x/MjNyZi5jb20vNDUw/d20va296emkva296/emkxMzAxL2tvenpp/MTMwMTAzNDcyLzE3/MTY4MjQ0LXNocmVk/ZGVkLWNoZWRkYXIt/Y2hlZXNlLW9uLWEt/YnJvd24tYmFja2dy/b3VuZC5qcGc_dmVy/PTY',
+      category: 'Dairy & Eggs',
+      description: 'Sharp cheddar cheese block.'
+    },
+    {
+      id: 21,
+      name: 'Greek Yogurt',
+      price: 3.49,
+      image: 'https://imgs.search.brave.com/7drha9BnQ9t0mhRQ12IKOHT0gS6AZ3gl-nZaLFuf_ZM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzQyLzI3LzU5/LzM2MF9GXzI0MjI3/NTkxMV9HZjZMNFVO/Y0NkQTNPTFZVU2gw/N21zVFd4djlUU0JO/Wi5qcGc',
       category: 'Dairy & Eggs',
       description: 'Plain Greek yogurt, 32oz.'
     },
@@ -185,7 +201,7 @@ const ProductList = () => {
       id: 22,
       name: 'Croissants',
       price: 3.99,
-      image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=500',
+      image: 'https://imgs.search.brave.com/4SgYcZG0SkgkEXEu9H51OteetoHBlE5IHRQwxI_35i4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTM5/Nzk2NTQxMC9waG90/by92YXJpb3VzLWNy/b2lzc2FudHMuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPVRk/TS1zdFdUWnpRNWZu/UFZSakRmdU1BUzJo/SFpIamRDZnZwVlVR/Ui0tY009',
       category: 'Bakery',
       description: 'Buttery French croissants.'
     },
@@ -193,7 +209,7 @@ const ProductList = () => {
       id: 23,
       name: 'Blueberry Muffins',
       price: 4.29,
-      image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=500',
+      image: 'https://imgs.search.brave.com/ajFv3Unm2RrKVTtye7EFcnPKN7CieUFODsQgNGYMI8U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbHVz/LnVuc3BsYXNoLmNv/bS9wcmVtaXVtX3Bo/b3RvLTE3MTE2ODQ4/MDM2NDYtMjdjMWEw/ZmVkNThiP2ZtPWpw/ZyZxPTYwJnc9MzAw/MCZpeGxpYj1yYi00/LjEuMCZpeGlkPU0z/d3hNakEzZkRCOE1I/eHpaV0Z5WTJoOE5Y/eDhZbXgxWldKbGNu/SjVKVEl3YlhWbVpt/bHVmR1Z1ZkRCOGZE/QjhmSHd3',
       category: 'Bakery',
       description: 'Fresh blueberry muffins.'
     },
@@ -202,7 +218,7 @@ const ProductList = () => {
       id: 24,
       name: 'Red Apples',
       price: 2.99,
-      image: 'https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=500',
+      image: 'https://imgs.search.brave.com/uCRS7IUE4W5pSYcaK7gVTep5dYWgq95VNhmIsFfDD28/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI1/NTQyNjAxOS9waG90/by9oYXJ2ZXN0ZWQt/cmVkLWFwcGxlcy1p/bi1hLWJhc2tldC5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/SG5UOTJoamFManlp/eWdFSUxJNXkybzRZ/cXZIS1RwenU3b05E/amFabnBiWT0',
       category: 'Produce',
       description: 'Crisp and sweet red apples.'
     },
@@ -210,7 +226,23 @@ const ProductList = () => {
       id: 25,
       name: 'Broccoli',
       price: 1.89,
-      image: 'https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=500',
+      image: 'https://imgs.search.brave.com/XJm7f0aLR88RZHYDaml3UuOCYWQiImyRdJJNrv2Jku8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI0/OTIwNDY1NC9waG90/by9mcmVzaC1icm9j/Y29saS1vbi1jaG9w/cGluZy1ib2FyZC5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/REhRTzdzVktoZHlL/Y09DVkhGelBrMXNu/VnV2alRfR1BDaHFF/TWxzMUdPVT0',
+      category: 'Produce',
+      description: 'Fresh green broccoli crowns.'
+    },
+    {
+      id: 24,
+      name: 'Red Apples',
+      price: 2.99,
+      image: 'https://imgs.search.brave.com/uCRS7IUE4W5pSYcaK7gVTep5dYWgq95VNhmIsFfDD28/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI1/NTQyNjAxOS9waG90/by9oYXJ2ZXN0ZWQt/cmVkLWFwcGxlcy1p/bi1hLWJhc2tldC5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/SG5UOTJoamFManlp/eWdFSUxJNXkybzRZ/cXZIS1RwenU3b05E/amFabnBiWT0',
+      category: 'Produce',
+      description: 'Crisp and sweet red apples.'
+    },
+    {
+      id: 25,
+      name: 'Broccoli',
+      price: 1.89,
+      image: 'https://imgs.search.brave.com/XJm7f0aLR88RZHYDaml3UuOCYWQiImyRdJJNrv2Jku8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI0/OTIwNDY1NC9waG90/by9mcmVzaC1icm9j/Y29saS1vbi1jaG9w/cGluZy1ib2FyZC5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/REhRTzdzVktoZHlL/Y09DVkhGelBrMXNu/VnV2alRfR1BDaHFF/TWxzMUdPVT0',
       category: 'Produce',
       description: 'Fresh green broccoli crowns.'
     },
@@ -219,7 +251,7 @@ const ProductList = () => {
       id: 26,
       name: 'Paper Towels',
       price: 5.99,
-      image: 'https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=500',
+      image: 'https://imgs.search.brave.com/Uq3G5E7qsawwWD84zTPafnOoOCT8ZTTe82N4EYWUlnw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdC5k/ZXBvc2l0cGhvdG9z/LmNvbS8zMTE2NDA3/LzQ3MDQvaS80NTAv/ZGVwb3NpdHBob3Rv/c180NzA0MzI3OS1z/dG9jay1waG90by1y/b2xscy1vZi1wYXBl/ci10b3dlbHMuanBn',
       category: 'Household',
       description: 'Absorbent paper towels for cleaning.'
     },
@@ -227,7 +259,7 @@ const ProductList = () => {
       id: 27,
       name: 'Laundry Detergent',
       price: 8.49,
-      image: 'https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=500',
+      image: 'https://imgs.search.brave.com/dMUJMZJ5x3iay1FDfXlqPxg5zioBNaI44dq-F5fs02g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cy4x/MjNyZi5jb20vNDUw/d20vYWppaWxoYW1w/cmF0YW1hL2FqaWls/aGFtcHJhdGFtYTI1/MDEvYWppaWxoYW1w/cmF0YW1hMjUwMTAy/NjU0LzIzOTY3MzMw/Ni1sYXVuZHJ5LWRl/dGVyZ2VudC15ZWxs/b3ctb3JhbmdlLXBs/YXN0aWMtYm90dGxl/LWZvci1tb2NrLXVw/LWlzb2xhdGVkLW9u/LWEtc29mdC1ibHVl/LWFuZC1waW5rLXBh/c3RlbC5qcGc_dmVy/PTY',
       category: 'Household',
       description: 'Liquid laundry detergent for fresh clothes.'
     },
@@ -235,7 +267,7 @@ const ProductList = () => {
       id: 28,
       name: 'Dish Soap',
       price: 3.29,
-      image: 'https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=500',
+      image: 'https://imgs.search.brave.com/vUINobYE_k99iwNE1TfZLr6DuG9bg1ADsu5f-cfUBZk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNzEx/NDg5NTYvcGhvdG8v/c29hcC13aXRoLWZv/YW0taW4tc29hcC1k/aXNoLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1CaFZsaTdH/bVByajV3Ujk5ZS14/ZGFuOTRTZjBjUTU3/aE9CMXRqS2FuUDBv/PQ',
       category: 'Household',
       description: 'Gentle dish soap for sparkling clean dishes.'
     },

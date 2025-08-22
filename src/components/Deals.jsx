@@ -20,7 +20,7 @@ const Deals = () => {
       price: 2.49,
       originalPrice: 3.99,
       discount: 38,
-      image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=500',
+      image: 'https://imgs.search.brave.com/50FTzgPtlLJtIM2KaZry2RhU7SZ4qQNSgit4SMPidYw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzE1LzI0LzE2Lzc3/LzM2MF9GXzE1MjQx/Njc3MjRfaGNycUlD/ODJDeXE1WlhmWlJK/VGVqWnUzMXNQeUs2/dUguanBn',
       category: 'Bakery',
       description: 'Freshly baked whole wheat bread'
     },

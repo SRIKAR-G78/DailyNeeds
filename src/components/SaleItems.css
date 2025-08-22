@@ -1,0 +1,33 @@
+.new-arrivals {
+  padding: 0;
+  list-style: none;
+}
+
+.new-arrivals li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.new-arrivals img {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+  margin-right: 16px;
+  border-radius: 8px;
+}
+
+/* Mobile styles */
+@media (max-width: 600px) {
+  .new-arrivals li {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .new-arrivals img {
+    width: 100%;
+    height: auto;
+    margin-right: 0;
+    margin-bottom: 8px;
+  }
+}
